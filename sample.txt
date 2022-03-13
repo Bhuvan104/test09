@@ -1,4 +1,4 @@
 Name: Pawan Kalyan
 Email id : bhuvan@gmail.com
 Phone : 8008509709
-job : python
+job : py
